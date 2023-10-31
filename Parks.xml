@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parks>
+	<Park type="Recreational">
+		<Owner>Federal Government</Owner>
+		<Name>Grand Canyon</Name>
+		<Reservation>
+			<Address>20 S Entrance Road Grand Canyon, AZ 86023</Address>
+			<Url>www.nps.gov/grca</Url>
+		</Reservation>
+		<NeiboringStates>
+			<State>Arizona</State>
+			<State>Utah</State>
+			<State>Nevada</State>
+		</NeiboringStates>
+		<Established Founder="Roosevelt">1919</Established>
+	</Park>
+
+	<Park type="Natural">
+		<Owner>Federal Government</Owner>
+		<Name>Yellowstone</Name>
+		<Reservation>
+			<Address>2 Officers Row Yellowstone National Park, WY 82190</Address>
+			<Url>http://www.nps.gov/yell/</Url>
+		</Reservation>
+		<NeiboringStates>
+			<State>Wyoming</State>
+			<State>Montana</State>
+			<State>Idaho</State>
+		</NeiboringStates>
+		<Established Founder="Ulysses S. Grant">1872</Established>
+	</Park>
+
+	<Park type="Natural">
+		<Owner>Federal Gorvernment</Owner>
+		<Name>Yosemite</Name>
+		<Reservation>
+			<Address>9035 Village Drive Yosemite Valley, CA 95389</Address>
+			<Url>https://www.nps.gov/yose/</Url>
+		</Reservation>
+		<NeiboringStates>
+			<State>California</State>
+		</NeiboringStates>
+		<Established Founder="Abraham Lincoln">1890</Established>
+	</Park>
+
+	<Park type="Recreational">
+		<Owner>Federal Government</Owner>
+		<Name>Zion</Name>
+		<Reservation>
+			<Address>1 Zion Park Boulevard State Route 9 Springdale, UT 84767</Address>
+			<Url>https://www.nps.gov/zion/</Url>
+		</Reservation>
+		<NeiboringStates>
+			<State>Utah</State>
+		</NeiboringStates>
+		<Established Founder="Woodrow Wilson">1919</Established>
+	</Park>
+
+	<Park type="Urban park">
+		<Owner>City of San Francisco</Owner>
+		<Name>Golden Gate</Name>
+		<Reservation>
+			<Address>501 Stanyan St, San Francisco, CA 94117</Address>
+			<Url>https://sfrecpark.org/parks-open-spaces/golden-gate-park</Url>
+		</Reservation>
+		<NeiboringStates>
+			<State>California</State>
+		</NeiboringStates>
+		<Established Founder="William Hammond Hall">1870</Established>
+	</Park>
+
+	<Park type="Urban park">
+		<Owner>City of New York</Owner>
+		<Name>NYC Central Park</Name>
+		<Reservation>
+			<Address>Central Park West and 61st Street, NY 10023</Address>
+			<Url>https://www.centralparknyc.org</Url>
+		</Reservation>
+		<NeiboringStates>
+			<State>New York</State>
+		</NeiboringStates>
+		<Established Founder="City of New York">1858</Established>
+	</Park>
+
+	<Park type="Recreational">
+		<Owner>City of San Diego</Owner>
+		<Name>Balboa</Name>
+		<Reservation>
+			<Address>1549 El Prado, San Diego, CA 92101</Address>
+			<Url>https://www.balboapark.org/</Url>
+		</Reservation>
+		<NeiboringStates>
+			<State>California</State>
+		</NeiboringStates>
+		<Established Founder="City of San Diego">1868</Established>
+	</Park>
+
+	<Park type="Urban park">
+		<Owner>City of Chicago</Owner>
+		<Name>Millennium</Name>
+		<Reservation>
+			<Address>201 E Randolph St Chicago, IL 60602</Address>
+			<Url>https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html</Url>
+		</Reservation>
+		<NeiboringStates>
+			<State>Illinois</State>
+		</NeiboringStates>
+		<Established Founder="City of Chicago">2004</Established>
+	</Park>
+
+	<Park type="Natural">
+		<Owner>Federal Government</Owner>
+		<Name>Rocky Mountain</Name>
+		<Reservation>
+			<Address>1000 U.S. Hwy 36, Estes Park, CO 80517</Address>
+			<Url>https://www.nps.gov/romo/index.htm</Url>
+		</Reservation>
+		<NeiboringStates>
+			<State>Colorado</State>
+			<State>Wyoming</State>
+		</NeiboringStates>
+		<Established Founder="Woodrow Wilson">1915</Established>
+	</Park>
+
+	<Park type="Natural">
+		<Owner>Federal Government</Owner>
+		<Name>Great Smoky</Name>
+		<Reservation>
+			<Address>1420 Fighting Creek Gap Road, Gatlingburg, TN 37738</Address>
+			<Url>https://www.nps.gov/grsm/index.htm</Url>
+		</Reservation>
+		<NeiboringStates>
+			<State>North Carolina</State>
+			<State>Tennessee</State>
+		</NeiboringStates>
+		<Established Founder="John D. Rockefeller Jr.">1934</Established>
+	</Park>
+</Parks>
