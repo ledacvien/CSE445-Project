@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parks>
+	<Park type="Recreational">
+		
+		<Name>Grand Canyon</Name>
+		<Reservation>
+			<Address>20 S Entrance Road Grand Canyon, AZ 86023</Address>
+			<Url>www.nps.gov/grca</Url>
+		</Reservation>
+		<NeiboringStates>
+			<State>Arizona</State>
+			<State>Utah</State>
+			<State>Nevada</State>
+		</NeiboringStates>
+		<Established Founder="Roosevelt">1919</Established>
+	</Park>
+
+	<Park>NoParkM</Park>
+</Parks>
